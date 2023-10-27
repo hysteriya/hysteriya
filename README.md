@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hysteriya
-- 📔 Most of my projects are based on Node.js
+- 📔 Most of my projects are based on MERN Stack
 - 🌱 Although you can find other stuff with python, java or php
 - 🎭 Reach me on instagram- @hysteriyaa
 
